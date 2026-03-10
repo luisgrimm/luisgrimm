@@ -1,7 +1,10 @@
 # Hi 👋, I'm Luis Felipe Grimm
 
-🚀 **Trainee Software Engineer | React & Java**  
+🚀 **Trainee FullStack Development | React & Java**  
 🇧🇷 Brazil
+
+I'm always looking to learn new things and working on new projects.
+
 
 ---
 
