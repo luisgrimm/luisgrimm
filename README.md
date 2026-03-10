@@ -18,7 +18,7 @@ I'm always looking to learn new things and working on new projects.
     <img src="https://img.shields.io/badge/Instagram-@LUISFGRIMM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
    <a href="https://www.linkedin.com/in/luisfelipegrimm/">
-    <img src="https://img.shields.io/badge/LinkedIn-@LUISFELIPEGRIMM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-LUISFELIPEGRIMM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
